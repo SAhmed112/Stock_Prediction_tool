@@ -5,3 +5,7 @@ mplfinance
 streamlit
 matplotlib
 numpy
+scikit-learn
+plotly
+statsmodels
+datetime2
