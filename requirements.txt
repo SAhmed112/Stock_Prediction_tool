@@ -2,6 +2,7 @@ pandas_ta
 pandas
 yfinance
 mplfinance
-Jinja2
 streamlit
 matplotlib
+numpy
+matplotlib.pyplot
